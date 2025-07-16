@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mr-repair/static/css/main.f855e6bc.css",
+    "main.js": "/mr-repair/static/js/main.1febcb7f.js",
+    "index.html": "/mr-repair/index.html",
+    "main.f855e6bc.css.map": "/mr-repair/static/css/main.f855e6bc.css.map",
+    "main.1febcb7f.js.map": "/mr-repair/static/js/main.1febcb7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1febcb7f.js"
+  ]
+}
