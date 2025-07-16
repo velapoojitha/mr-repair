@@ -1,3 +1,59 @@
+### 🌟Project: Mr Repair - An online home services
+---
+
+## Mr Repair - Service Request Management App
+Mr Repair is a full-stack React + Firebase application designed to streamline and simplify home service request management.
+
+It connects customers needing services (like electrical, plumbing, or appliance repair) with service workers, and enables easy tracking of service requests—from booking to completion.
+
+---
+
+## 🌟 About
+
+**Mr Repair** streamlines home service management:
+
+- Customers can **browse and request services** (like plumbing, electrical work).
+- Service workers see **assigned requests** in a dashboard.
+- Workers use **QR code scanning** to **validate and mark jobs as complete**.
+- All data updates **real-time** via Firebase.
+
+Built to **simplify** and **digitize** the service booking process.
+
+---
+
+## ✨ Features
+
+📌 User Authentication (Signup/Login)
+🔎 Browse and Request Services for customers
+🗂️ Service Worker Dashboard for managing assigned requests
+✅ QR Code Scanning to mark jobs as completed (with real-time Firebase updates)
+🔔 Client and Worker History tracking
+💥 Responsive, user-friendly UI with React Bootstrap
+
+---
+
+## ⚙️ Tech Stack
+
+- **Frontend:** React 18
+- **Routing:** React Router DOM
+- **Styling:** React Bootstrap
+- **State Management:** useState, useEffect
+- **Authentication & Database:** Firebase (v9 modular)
+- **QR Code Scanning:** react-qr-reader
+- **Deployment:** GitHub Pages
+
+---
+
+
+## 🚀 How It Works
+
+Clients request services through the platform.
+Service providers see their assigned requests.
+When on-site, the provider scans the client's QR code to confirm the task.
+Upon successful scan, the request is marked completed in the database.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
