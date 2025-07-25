@@ -54,7 +54,7 @@ Upon successful scan, the request is marked completed in the database.
 
 ---
 
-## Project live link
+## 🌐 Project live link
 ```
 https://velapoojitha.github.io/mr-repair/
 ```
